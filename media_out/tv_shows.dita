@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="tv_shows" xml:lang="en-us">
+<title>tv_shows</title>
+<table frame="all" rowheader="firstcol">
+<title>tv_shows</title>
+<tgroup cols="3"><colspec colname="c1"/>
+<colspec colname="c2"/>
+<colspec colname="c3"/>
+<thead>
+  <row>
+    <entry>Title</entry>
+    <entry>Year Start</entry>
+    <entry>Year End</entry>
+  </row>
+</thead>
+<tbody>
+<row>
+  <entry>Becker</entry>
+  <entry>1998</entry>
+  <entry>2001</entry>
+</row>
+
+<row>
+  <entry>Cheers</entry>
+  <entry>1990</entry>
+  <entry>1996</entry>
+</row>
+
+<row>
+  <entry>Mash</entry>
+  <entry>1980</entry>
+  <entry>1988</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</topic>

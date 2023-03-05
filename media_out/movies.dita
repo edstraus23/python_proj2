@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="movies" xml:lang="en-us">
+<title>movies</title>
+<table frame="all" rowheader="firstcol">
+<title>movies</title>
+<tgroup cols="3"><colspec colname="c1"/>
+<colspec colname="c2"/>
+<colspec colname="c3"/>
+<thead>
+  <row>
+    <entry>Title</entry>
+    <entry>Year Start</entry>
+    <entry>Year End</entry>
+  </row>
+</thead>
+<tbody>
+<row>
+  <entry>Step Brothers</entry>
+  <entry>2003</entry>
+  <entry>2003</entry>
+</row>
+
+<row>
+  <entry>Old School</entry>
+  <entry>2001</entry>
+  <entry>2001</entry>
+</row>
+
+<row>
+  <entry>Stripes</entry>
+  <entry>1988</entry>
+  <entry>1988</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</topic>
