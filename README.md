@@ -56,7 +56,7 @@ I am using Ubuntu for this demo. To install Doxygen for Ubuntu, follow the instr
 
 Add the following text to the main Python script (in this case, create_map.py):
 
-```
+``` Python
 """! @brief Python program that generates DITA topicmap and topics."""
 ##
 # @mainpage DITA Topicmap Creation Project
@@ -96,7 +96,7 @@ Add the following text to the main Python script (in this case, create_map.py):
 
 To add information about the functions/definitions and their parameters, use comments like in the following examples:
 
-```
+``` Python
 def create_array(inputdir):
     """! This method creates an array of the file listings.
     @param inputdir   The input directory
@@ -104,7 +104,7 @@ def create_array(inputdir):
     """
 ```
 
-```
+``` Python
 class Media:
     """! The Media class.
     Defines the title, year start, and year end for the Media class. Media can be movies, TV shows, books, etc.
